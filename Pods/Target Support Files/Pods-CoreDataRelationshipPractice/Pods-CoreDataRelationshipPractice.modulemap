@@ -1,0 +1,6 @@
+framework module Pods_CoreDataRelationshipPractice {
+  umbrella header "Pods-CoreDataRelationshipPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}

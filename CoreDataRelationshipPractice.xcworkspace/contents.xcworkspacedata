@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CoreDataRelationshipPractice/DB/Project+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataRelationshipPractice/DB/Project+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataRelationshipPractice/DB/Song+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataRelationshipPractice/DB/Song+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataRelationshipPractice.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
